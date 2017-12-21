@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55d4c3e-fde3-49d0-92ba-3bdb0a37557c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/collection.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-full-schematic/files/test2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-full-schematic/files/test__INDEX__" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-full-schematic/index.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-full-schematic/index_spec.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-full-schematic/schema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-other-schematic/index.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-other-schematic/index_spec.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-schematic/index.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-schematic/index_spec.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tsconfig.json" afterPath="" />
+    <list default="true" id="15b88c89-b32d-4151-a682-084110adac7f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/src/collection.json" afterPath="$PROJECT_DIR$/examples/src/collection.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/src/inline-template-component/index.ts" afterPath="$PROJECT_DIR$/examples/src/inline-template-component/index.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/src/inline-template-component/schema.json" afterPath="$PROJECT_DIR$/examples/src/inline-template-component/schema.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/src/my-other-schematic/index.ts" afterPath="$PROJECT_DIR$/examples/src/my-other-schematic/index.ts" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,41 +22,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".angular-cli.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example-app/.angular-cli.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/my-schematic/index.ts">
+        <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collection.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/src/collection.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collection-schema.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/collection-schema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schema.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/schema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts">
+        <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="247">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/base.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schematic.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/schematic.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -80,14 +95,42 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="247">
+              <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="collection.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/collection.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding>
+                <marker date="1513885162559" expanded="true" signature="145:675" ph="{...}" />
+                <marker date="1513885162559" expanded="true" signature="315:666" ph="[...]" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>description</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,9 +142,16 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/collection.json" />
         <option value="$PROJECT_DIR$/src/inline-template-component/index.ts" />
-        <option value="$PROJECT_DIR$/examples/package.json" />
         <option value="$PROJECT_DIR$/example-app/.angular-cli.json" />
         <option value="$PROJECT_DIR$/examples/src/my-schematic/index.ts" />
+        <option value="$PROJECT_DIR$/examples/src/my-full-schematic/index.ts" />
+        <option value="$PROJECT_DIR$/examples/src/my-other-schematic/index.ts" />
+        <option value="$PROJECT_DIR$/examples/src/inline-template-component/schema.json" />
+        <option value="$PROJECT_DIR$/examples/package.json" />
+        <option value="$PROJECT_DIR$/example-app/node_modules/examples/src/collection.json" />
+        <option value="$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts" />
+        <option value="$PROJECT_DIR$/examples/src/collection.json" />
+        <option value="$PROJECT_DIR$/examples/src/inline-template-component/index.ts" />
       </list>
     </option>
   </component>
@@ -117,12 +167,6 @@
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/examples/package.json" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-943" />
-    <option name="y" value="-985" />
-    <option name="width" value="1238" />
-    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -176,6 +220,81 @@
               <item name="examples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="example-app" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inline-template-component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular-devkit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular-devkit" type="462c0819:PsiDirectoryNode" />
+              <item name="schematics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular-devkit" type="462c0819:PsiDirectoryNode" />
+              <item name="schematics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular-devkit" type="462c0819:PsiDirectoryNode" />
+              <item name="schematics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inline-template-component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inline-template-component" type="462c0819:PsiDirectoryNode" />
+              <item name="index.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -189,6 +308,10 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/src/inline-template-component" />
+      <recent name="$PROJECT_DIR$/examples/src/my-schematic" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -216,7 +339,8 @@
       <option name="presentableId" value="Default" />
       <updated>1513705596073</updated>
       <workItem from="1513705597439" duration="8381000" />
-      <workItem from="1513786950224" duration="7000" />
+      <workItem from="1513786950224" duration="1482000" />
+      <workItem from="1513872956845" duration="5068000" />
     </task>
     <task id="LOCAL-00001" summary="Added empty project generated with schematics.">
       <created>1513705754442</created>
@@ -225,23 +349,32 @@
       <option name="project" value="LOCAL" />
       <updated>1513705754442</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated the copy thing.">
+      <created>1513885382108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513885382108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8388000" />
+    <option name="totallyTimeSpent" value="14931000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-943" y="-985" width="1238" height="985" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="985" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18324292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48404256" sideWeight="0.5018431" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52479815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52595156" sideWeight="0.49815693" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -269,206 +402,8 @@
         <option value="$PROJECT_DIR$/examples/src/my-other-schematic/index.js" />
         <option value="$PROJECT_DIR$/examples/src/my-other-schematic/index_spec.js.map" />
         <option value="$PROJECT_DIR$/examples/src/my-other-schematic/index.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/statemanagement/ui/full-screen.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/statemanagement/ui/full-screen.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/statemanagement/ui/full-screen.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/statemanagement/ui/full-screen.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/environments/environment.prod.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/environments/environment.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/environments/environment.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/environments/environment.prod.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/e2e/app.po.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/e2e/app.e2e-spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/e2e/app.e2e-spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/e2e/app.po.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/main.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/polyfills.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/polyfills.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/main.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/modal-backdrop/modal-backdrop.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/modal-backdrop/modal-backdrop.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-table-cell/simple-tabel-cell.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-table-cell/simple-table-cell.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-table-cell/simple-tabel-cell.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-table-cell/simple-table-cell.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/confirmation-modal/confirmation-modal.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/confirmation-modal/confirmation-modal.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/confirmation-modal/confirmation-modal.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/confirmation-modal/confirmation-modal.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-checkbox/simple-form-checkbox.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-checkbox/simple-form-checkbox.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-checkbox/simple-form-checkbox.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-checkbox/simple-form-checkbox.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-dropdown/simple-form-dropdown.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-dropdown/simple-form-dropdown.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-dropdown/simple-form-dropdown.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-dropdown/simple-form-dropdown.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-array-box/simple-form-array-box.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-array-box/simple-form-array-box.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-array-box/simple-form-array-box.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-array-box/simple-form-array-box.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/shared.module.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/shared.module.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/pipes/key-value.pipe.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/pipes/key-value.pipe.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/pipes/key-value.pipe.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/pipes/key-value.pipe.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/utils/utility.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/utils/index.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/utils/utility.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/utils/utility.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/utils/index.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/utils/utility.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/transport-shipments.service.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/index.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/transport-shipments.service.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/gates.service.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/notification.service.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/gates.service.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/notification.service.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/gates.service.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/modal.service.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/modal.service.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/index.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/gates.service.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/transport-shipments.service.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/transport-shipments.service.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/notification.service.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/services/notification.service.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/modal/modal.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/modal/modal.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/modal/modal.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/modal/modal.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/full-screen/full-screen.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/full-screen/full-screen.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-table/simple-table.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-table/simple-table.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-text-input/simple-form-text-input.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-text-input/simple-form-text-input.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-text-input/simple-form-text-input.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared/src/components/simple-form-text-input/simple-form-text-input.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/edit-gate/edit-gate.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/edit-gate/edit-gate.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/edit-gate/edit-gate.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/edit-gate/edit-gate.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/gates-overview/gates-overview.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/gates-overview/gates-overview.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/gates-overview/gates-overview.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/gates-overview/gates-overview.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/create-gate/create-gate.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/create-gate/create-gate.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/create-gate/create-gate.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/containers/create-gate/create-gate.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/sandboxes/gates.sandbox.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/sandboxes/gates.sandbox.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/sandboxes/gates.sandbox.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/sandboxes/gates.sandbox.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/entities/gate.entity.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/entities/index.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/entities/index.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/entities/shipment-registration.entity.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/entities/transport-shipment.entity.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/entities/transport-shipment.entity.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/entities/shipment-registration.entity.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/entities/gate.entity.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/app.module.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/rxjs-operators.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/rxjs-operators.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/app.routes.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/app.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/app.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/app.routes.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/app.module.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/services/base-url.interceptor.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/services/base-url.interceptor.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/services/base-ui.interceptor.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/services/base-ui.interceptor.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/statemanagement/root-reducer.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/statemanagement/root-reducer.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/components/navbar-top/navbar-top.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/components/navbar-top/navbar-top.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/components/navbar-left/navbar-left.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/apps/fe-pallet-tracking/src/app/components/navbar-left/navbar-left.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/components/transport-shipments-form/transport-shipments-form.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/components/transport-shipments-form/transport-shipments-form.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/components/transport-shipments-form/transport-shipments-form.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/components/transport-shipments-form/transport-shipments-form.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/index.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/index.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/shipment-registrations.routes.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/shipment-registrations.module.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/shipment-registrations.routes.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/shipment-registrations.module.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/services/shipment-registrations.service.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/services/shipment-registrations.service.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/services/shipment-registrations.service.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/services/shipment-registrations.service.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/sandboxes/shipment-registrations.sandbox.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/sandboxes/shipment-registrations.sandbox.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/sandboxes/shipment-registrations.sandbox.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/sandboxes/shipment-registrations.sandbox.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/components/shipment-registrations-form/shipment-registrations-form.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/components/shipment-registrations-form/shipment-registrations-form.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/components/shipment-registrations-form/shipment-registrations-form.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/components/shipment-registrations-form/shipment-registrations-form.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/containers/close-shipment-registrations/close-shipment-registrations.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/containers/close-shipment-registrations/close-shipment-registrations.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/containers/close-shipment-registrations/close-shipment-registrations.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/containers/close-shipment-registrations/close-shipment-registrations.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/containers/assign-shipment-registrations/assign-shipment-registrations.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/containers/assign-shipment-registrations/assign-shipment-registrations.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/containers/assign-shipment-registrations/assign-shipment-registrations.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shipment-registrations/src/containers/assign-shipment-registrations/assign-shipment-registrations.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/edit-transport-shipments/edit-transport-shipments.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/edit-transport-shipments/edit-transport-shipments.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/edit-transport-shipments/edit-transport-shipments.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/edit-transport-shipments/edit-transport-shipments.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/create-transport-shipments/create-transport-shipments.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/create-transport-shipments/create-transport-shipments.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/create-transport-shipments/create-transport-shipments.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/create-transport-shipments/create-transport-shipments.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/transport-shipments-overview/transport-shipments-overview.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/transport-shipments-overview/transport-shipments-overview.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/transport-shipments-overview/transport-shipments-overview.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/containers/transport-shipments-overview/transport-shipments-overview.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/index.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/index.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/transport-shipments.routes.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/transport-shipments.routes.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/transport-shipments.module.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/transport-shipments.module.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/services/transport-codes.service.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/services/transport-codes.service.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/services/transport-codes.service.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/services/transport-codes.service.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/sandboxes/transport-shipments.sandbox.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/sandboxes/transport-shipments.sandbox.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/sandboxes/transport-shipments.sandbox.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/transport-shipments/src/sandboxes/transport-shipments.sandbox.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/index.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/index.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/gates.routes.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/gates.module.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/gates.routes.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/gates.module.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/components/gate-form/gate-form.component.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/components/gate-form/gate-form.component.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/components/gate-form/gate-form.component.spec.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/gates/src/components/gate-form/gate-form.component.spec.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/simple-form-array.type.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/key-value.type.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/table-config.type.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/errors-config.type.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/table-config.type.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/simple-form-array.type.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/errors-config.type.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/src/key-value.type.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/setupJest.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/setupJest.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/jestGlobalMocks.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/jestGlobalMocks.js" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/index.js.map" />
-        <option value="$PROJECT_DIR$/../../../projects/tvh/fe-parts/fe-parts/libs/shared-types/index.js" />
+        <option value="$PROJECT_DIR$/examples/src/inline-template-component/index.js.map" />
+        <option value="$PROJECT_DIR$/examples/src/inline-template-component/index.js" />
       </list>
     </option>
   </component>
@@ -477,13 +412,62 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added empty project generated with schematics." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added empty project generated with schematics." />
+    <MESSAGE value="Updated the copy thing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the copy thing." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-app/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/my-schematic/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example-app/.angular-cli.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1102">
@@ -532,14 +516,6 @@
     <entry file="file://$PROJECT_DIR$/src/inline-template-component/index.ts" />
     <entry file="file://$PROJECT_DIR$/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/examples/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/my-schematic/index.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -548,10 +524,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-app/node_modules/@angular/cli/tasks/schematic-get-options.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1511419455000" expanded="true" signature="349:650" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example-app/.angular-cli.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="29" />
+        <state relative-caret-position="741">
+          <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -559,15 +553,119 @@
     <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/engine/interface.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="114" column="20" lean-forward="false" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/my-other-schematic/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#103#0" expanded="true" />
+            <element signature="e#961#1126#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/my-full-schematic/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-458">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#144#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="228">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/collection-schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <marker date="1513885162559" expanded="true" signature="145:675" ph="{...}" />
+            <marker date="1513885162559" expanded="true" signature="315:666" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/schematic.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/base.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
       </provider>

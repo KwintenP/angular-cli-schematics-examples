@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "description": "A schematics",
   "scripts": {
-    "prelink": "npm run build",
-    "link": "copyfiles ./**/**/* ../example-app/node_modules/examples",
+    "precopy": "npm run build",
+    "copy": "copyfiles ** **/* **/**/* ../example-app/node_modules/examples --exclude **/node_modules/**",
     "build": "tsc -p tsconfig.json",
     "test": "npm run build && jasmine **/*_spec.js"
   },

@@ -17,7 +17,14 @@
   "schematics": {
     "my-schematic": {
       "description": "An example schematic",
-      "factory": "./my-schematic/index#mySchematic"
+      "factory": "./my-schematic/index#mySchematic",
+      "schema": "./my-schematic/schema.json"
+    },
+    "inline-template-component": {
+      "description": "A component with the inline template on by default",
+      "factory": "./inline-template-component/index",
+      "schema": "./inline-template-component/schema.json",
+      "aliases": "c"
     },
     "my-other-schematic": {
       "description": "A schematic that uses another schematics.",

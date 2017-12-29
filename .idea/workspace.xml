@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b88c89-b32d-4151-a682-084110adac7f" name="Default" comment="Removed the unused schematics.">
+    <list default="true" id="15b88c89-b32d-4151-a682-084110adac7f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example-app/src/app/app.module.ts" afterPath="$PROJECT_DIR$/example-app/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/src/inline-template-component/schema.json" afterPath="$PROJECT_DIR$/examples/src/inline-template-component/schema.json" />
     </list>
+    <ignored path="$PROJECT_DIR$/example-app/node_modules/" />
+    <ignored path="$PROJECT_DIR$/examples/node_modules/" />
+    <ignored path="$PROJECT_DIR$/examples/src/inline-template-component/index.js.map/" />
+    <ignored path="$PROJECT_DIR$/examples/src/inline-template-component/index.js/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +29,7 @@
       <file leaf-file-name="collection.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/src/collection.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="342">
               <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding />
             </state>
@@ -33,18 +39,18 @@
       <file leaf-file-name="collection-schema.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/collection-schema.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="399">
               <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schema.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="schema.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/schema.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="41" column="60" lean-forward="false" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -54,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/index.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,7 +69,7 @@
       <file leaf-file-name="base.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/base.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="228">
               <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
               <folding />
             </state>
@@ -73,7 +79,7 @@
       <file leaf-file-name="schematic.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/schematic.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="152">
               <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
@@ -93,24 +99,22 @@
       <file leaf-file-name="collection.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/collection.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
+            <state relative-caret-position="418">
               <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
-                <marker date="1513973157164" expanded="true" signature="378:1330" ph="{&quot;$schema&quot;: &quot;./node_modules/@angular-devkit/schematics/collection-schema.json&quot;...}" />
-                <marker date="1513973157164" expanded="true" signature="1073:1328" ph="{...}" />
                 <marker date="1513973157164" expanded="true" signature="1316:1324" ph="{&quot;description&quot;: &quot;A schematic that extends another schematic.&quot;...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="4" column="80" lean-forward="false" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+            <state relative-caret-position="57">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <marker date="1513973157194" expanded="true" signature="262:264" ph="{...}" />
+                <marker date="1514585021346" expanded="true" signature="196:198" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -140,10 +144,10 @@
         <option value="$PROJECT_DIR$/examples/src/my-other-schematic/index.ts" />
         <option value="$PROJECT_DIR$/examples/package.json" />
         <option value="$PROJECT_DIR$/example-app/node_modules/examples/src/collection.json" />
-        <option value="$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts" />
         <option value="$PROJECT_DIR$/examples/src/collection.json" />
         <option value="$PROJECT_DIR$/examples/src/inline-template-component/index.ts" />
         <option value="$PROJECT_DIR$/examples/src/inline-template-component/schema.json" />
+        <option value="$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts" />
       </list>
     </option>
   </component>
@@ -183,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,6 +228,16 @@
               <item name="examples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="inline-template-component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-cli-schematics-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="example-app" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inline-template-component" type="462c0819:PsiDirectoryNode" />
+              <item name="index.ts" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="angular-cli-schematics-examples" type="b2602c69:ProjectViewProjectNode" />
@@ -297,6 +310,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,14 +344,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d55d4c3e-fde3-49d0-92ba-3bdb0a37557c" name="Default" comment="" />
+      <changelist id="15b88c89-b32d-4151-a682-084110adac7f" name="Default" comment="" />
       <created>1513705596073</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513705596073</updated>
       <workItem from="1513705597439" duration="8381000" />
       <workItem from="1513786950224" duration="1482000" />
-      <workItem from="1513872956845" duration="6911000" />
+      <workItem from="1513872956845" duration="6938000" />
+      <workItem from="1514585007208" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="Added empty project generated with schematics.">
       <created>1513705754442</created>
@@ -381,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513973076748</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Reverted the inline template to true.">
+      <created>1514068538589</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1514068538589</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16774000" />
+    <option name="totallyTimeSpent" value="16816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="985" extended-state="6" />
@@ -394,7 +416,6 @@
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18324292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48404256" sideWeight="0.5018431" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -403,6 +424,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -430,18 +452,94 @@
     <MESSAGE value="Added custom schematic." />
     <MESSAGE value="Removed the unused schematics." />
     <MESSAGE value="Cleaned up the example schematic." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up the example schematic." />
+    <MESSAGE value="Reverted the inline template to true." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverted the inline template to true." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/src/collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/collection-schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/base.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/schematic.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1513973157164" expanded="true" signature="1316:1324" ph="{&quot;description&quot;: &quot;A schematic that extends another schematic.&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="80" lean-forward="false" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+          <folding>
+            <marker date="1514585021346" expanded="true" signature="196:198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -449,7 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1102">
           <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -457,18 +554,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts" />
     <entry file="file://$PROJECT_DIR$/examples/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -489,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1102">
           <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,14 +603,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts" />
     <entry file="file://$PROJECT_DIR$/src/my-full-schematic/schema.json" />
     <entry file="file://$PROJECT_DIR$/src/my-full-schematic/index.ts" />
     <entry file="file://$PROJECT_DIR$/node_modules/@angular-devkit/schematics/src/rules/schematic.d.ts" />
@@ -537,25 +616,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/schema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/schema.json" />
     <entry file="file://$PROJECT_DIR$/example-app/node_modules/@angular/cli/tasks/schematic-get-options.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <marker date="1511419455000" expanded="true" signature="349:650" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,59 +645,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="114" column="20" lean-forward="false" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/src/my-other-schematic/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/src/my-full-schematic/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-458">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/src/my-other-schematic/index.ts" />
+    <entry file="file://$PROJECT_DIR$/examples/src/my-full-schematic/index.ts" />
+    <entry file="file://$PROJECT_DIR$/examples/src/my-schematic/index.ts" />
     <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/collection-schema.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="399">
           <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="80" lean-forward="false" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
-          <folding>
-            <marker date="1513973157194" expanded="true" signature="262:264" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/collection.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
+        <state relative-caret-position="418">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1513973157164" expanded="true" signature="378:1330" ph="{&quot;$schema&quot;: &quot;./node_modules/@angular-devkit/schematics/collection-schema.json&quot;...}" />
-            <marker date="1513973157164" expanded="true" signature="1073:1328" ph="{...}" />
             <marker date="1513973157164" expanded="true" signature="1316:1324" ph="{&quot;description&quot;: &quot;A schematic that extends another schematic.&quot;...}" />
           </folding>
         </state>
@@ -647,7 +679,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/schematic.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="152">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
@@ -655,7 +687,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/node_modules/@angular-devkit/schematics/src/rules/base.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="228">
           <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding />
         </state>
@@ -663,7 +695,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/src/collection.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="342">
           <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding />
         </state>
@@ -672,16 +704,26 @@
     <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/index.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/src/inline-template-component/schema.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="225">
+          <caret line="41" column="60" lean-forward="false" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-app/node_modules/examples/src/inline-template-component/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1514585021346" expanded="true" signature="196:198" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

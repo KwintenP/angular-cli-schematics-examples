@@ -54,6 +54,9 @@
     }
   },
   "defaults": {
+    "schematics": {
+      "collection": "my-company-schematics"
+    },
     "styleExt": "scss",
     "component": {}
   }

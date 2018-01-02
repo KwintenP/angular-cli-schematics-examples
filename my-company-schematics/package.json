@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "A schematics",
   "scripts": {
+    "precopy": "npm run build",
     "build": "tsc -p tsconfig.json",
+    "copy": "copyfiles ** **/* **/**/* ../schematic-playground/node_modules/my-company-schematics --exclude **/node_modules/**",
     "test": "npm run build && jasmine **/*_spec.js"
   },
   "keywords": [
@@ -12,7 +14,7 @@
   "author": "",
   "license": "MIT",
   "schematics": "./src/collection.json",
-  "dependencies": {
+  "peerDependencies": {
     "@angular-devkit/core": "^0.0.22",
     "@angular-devkit/schematics": "^0.0.42",
     "@types/jasmine": "^2.6.0",
